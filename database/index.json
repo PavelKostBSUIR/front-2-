@@ -1,0 +1,332 @@
+{
+  "floors": [
+    {
+      "floor": 1,
+      "rooms": [
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/1200/800"
+        }
+      ]
+    },
+    {
+      "floor": 3,
+      "rooms": [
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/1200/800"
+        }
+      ]
+    },
+    {
+      "floor": 1,
+      "rooms": [
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/400/200"
+        },
+        {
+          "number": 404,
+          "roomNum": 5,
+          "busy": "false",
+          "cost": 100,
+          "type": "elite",
+          "image": "https://picsum.photos/1200/800"
+        }
+      ]
+    }
+  ],
+  "cleaningSchedule": {
+    "month": "12",
+    "days": [
+      {
+        "day": 1,
+        "weekDay": "monday",
+        "rooms": [
+          {
+            "room": 100,
+            "cleaned": true
+          },
+          {
+            "room": 200,
+            "cleaned": true
+          },
+          {
+            "room": 300,
+            "cleaned": true
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "weekDay": "monday",
+        "rooms": [
+          {
+            "room": 400,
+            "cleaned": true
+          },
+          {
+            "room": 500,
+            "cleaned": true
+          },
+          {
+            "room": 500,
+            "cleaned": true
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "weekDay": "monday",
+        "rooms": [
+          {
+            "room": 600,
+            "cleaned": true
+          },
+          {
+            "room": 700,
+            "cleaned": true
+          },
+          {
+            "room": 800,
+            "cleaned": true
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "weekDay": "monday",
+        "rooms": [
+          {
+            "room": 600,
+            "cleaned": true
+          },
+          {
+            "room": 700,
+            "cleaned": true
+          },
+          {
+            "room": 800,
+            "cleaned": true
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "weekDay": "monday",
+        "rooms": [
+          {
+            "room": 600,
+            "cleaned": true
+          },
+          {
+            "room": 700,
+            "cleaned": true
+          },
+          {
+            "room": 800,
+            "cleaned": true
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "weekDay": "monday",
+        "rooms": [
+          {
+            "room": 600,
+            "cleaned": true
+          },
+          {
+            "room": 700,
+            "cleaned": true
+          },
+          {
+            "room": 800,
+            "cleaned": true
+          }
+        ]
+      }
+    ]
+  },
+  "dishes": [
+    {
+      "id": 1,
+      "name": "fish",
+      "description": "very good fish",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "fish",
+      "description": "very good fish",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "fish",
+      "description": "very good fish",
+      "price": 100
+    }
+  ],
+  "login_1": {
+    "token": "111",
+    "role": "USER",
+    "error": ""
+  },
+  "cleaning": {
+    "schedule": [
+      {
+        "date": 12,
+        "cleaned": false
+      },
+      {
+        "date": 15,
+        "cleaned": true
+      }
+    ],
+    "error": ""
+  },
+  "all": { "rooms": [101, 202, 203, 560, 434, 333], "error": "" },
+  "room": {
+    "rooms": 3,
+    "type": 1,
+    "price": 10,
+    "room_num": 500,
+    "error": ""
+  },
+  "regular": {
+    "error": "",
+    "user": {
+      "mail": "lol@gm",
+      "name": "Pavel",
+      "series": "MC",
+      "number": "888"
+    },
+    "rooms": [
+      {
+        "number": 505,
+        "type": 0
+      },
+      {
+        "number": 405,
+        "type": 2
+      },
+      {
+        "number": 605,
+        "type": 1
+      }
+    ]
+  },
+  "booked_by_type": {
+    "error": "",
+    "free": 20,
+    "taken": 30,
+    "by_types": {
+      "cheap": 10,
+      "normal": 15,
+      "vip": 5
+    }
+  },
+  "income": {
+    "error": "",
+    "rooms_income": 20,
+    "restaurant_income": 500,
+    "products": 10,
+    "salaries": 15,
+    "income": 20
+  },
+  "allPersonal": [
+    {
+      "name": "Pavel",
+      "email": "lol@gmail.com",
+      "role": "CLEANER"
+    },
+    {
+      "name": "Pavel",
+      "email": "lol@gmail.com",
+      "role": "CLEANER"
+    },
+    {
+      "name": "Pavel",
+      "email": "lol@gmail.com",
+      "role": "CLEANER"
+    }
+  ]
+}
